@@ -1,0 +1,17 @@
+{
+    "name": "MDEditor",
+    "manifest_version": 2,
+    "version": "1.0",
+    "description": "A Markdown Editor",
+    "app": {
+        "launch": {
+            "local_path": "index.html",
+            "container": "panel",
+            "width": 1024,
+            "height": 800
+        }
+    },
+    "sandbox": {
+        "content_security_policy": "script-src 'self' https://www.bootcdn.cn; object-src 'self'"
+    }
+}
