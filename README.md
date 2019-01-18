@@ -2,4 +2,4 @@
 
 预览图片：
 
-!()[https://github.com/EstherJi/MDEditor/blob/master/example/view.png]
+![](https://github.com/EstherJi/MDEditor/blob/master/example/view.png)
