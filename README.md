@@ -3,3 +3,9 @@
 预览图片：
 
 ![](https://github.com/EstherJi/MDEditor/blob/master/example/view.png)
+
+#### 2019-03-14更新 & 优化
+- 减小打包体积
+- 编辑框滚动跟随
+- 编辑框左右拖拽
+- 展示字体间距增大
