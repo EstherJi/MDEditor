@@ -1,8 +1,15 @@
 {
     "name": "MDEditor",
     "manifest_version": 2,
-    "version": "1.0",
+    "version": "1.0.3",
     "description": "A Markdown Editor",
+    "icons": {
+        "16": "icon/icon_16.png",
+        "32": "icon/icon_32.png",
+        "48": "icon/icon_48.png",
+        "64": "icon/icon_64.png",
+        "128": "icon/icon_128.png"
+    },
     "app": {
         "launch": {
             "local_path": "index.html",
@@ -12,6 +19,6 @@
         }
     },
     "sandbox": {
-        "content_security_policy": "script-src 'self' https://www.bootcdn.cn; object-src 'self'"
+        // "content_security_policy": "script-src 'self' https://www.bootcdn.cn; object-src 'self'"
     }
 }
